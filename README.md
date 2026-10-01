@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Yulina Andoolo
 
-<!--
-**Yulina-dev/Yulina-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring software engineer • Web development learner
 
-Here are some ideas to get you started:
+I’m building a foundation in software engineering through small, practical web projects. This profile documents my progress as I learn to write clear code and build useful interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I’m practicing
+
+**HTML · CSS · JavaScript**
+
+- **HTML:** page structure and semantic elements
+- **CSS:** responsive layouts, Flexbox, Grid, and styling
+- **JavaScript:** events, DOM updates, and browser storage
+- **Git & GitHub:** version control, commits, and project documentation
+
+## Featured projects
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Personal Portfolio](https://github.com/Yulina-dev/personal-portfolio) | A responsive portfolio with HTML, CSS, and JavaScript |
+| [Responsive Landing Page](https://github.com/Yulina-dev/responsive-landing-page) | A fictional IT support brand page with responsive layouts |
+| [JavaScript Productivity App](https://github.com/Yulina-dev/javascript-productivity-app) | A task list with browser storage and a calculator |
+
+## Current learning goals
+
+- Build accessible pages that work on different screen sizes
+- Strengthen JavaScript fundamentals and debugging skills
+- Practice meaningful commits, clear READMEs, and simple testing
+
+*These are learning projects that I’ll keep improving as my skills grow.*
