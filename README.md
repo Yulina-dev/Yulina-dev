@@ -21,6 +21,12 @@ I’m building a foundation in software engineering through small, practical web
 | [Responsive Landing Page](https://github.com/Yulina-dev/responsive-landing-page) | A fictional IT support brand page with responsive layouts |
 | [JavaScript Productivity App](https://github.com/Yulina-dev/javascript-productivity-app) | A task list with browser storage and a calculator |
 
+## Live ticket desk demo
+
+[Open Yulina Dev](https://help-desk-ticket-tracker-react-sql.yulinaandoolo.workers.dev/) · [View source](https://github.com/Yulina-dev/help-desk-ticket-tracker-react-sql)
+
+A React and TypeScript practice project with a Cloudflare Worker API and D1 SQL storage. Create, search, filter and update sample support tickets. This is a shared public learning demo.
+
 ## Current learning goals
 
 - Build accessible pages that work on different screen sizes
@@ -28,3 +34,4 @@ I’m building a foundation in software engineering through small, practical web
 - Practice meaningful commits, clear READMEs, and simple testing
 
 *These are learning projects that I’ll keep improving as my skills grow.*
+
